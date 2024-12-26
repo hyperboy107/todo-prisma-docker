@@ -1,3 +1,12 @@
+
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+
+![Prisma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg)
+
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+
 Explanation of Key Directories and Files:
 
 ▩ prisma/: Contains Prisma's schema (schema.prisma) and migration files. After each schema change, migration files are generated here to apply database changes.
